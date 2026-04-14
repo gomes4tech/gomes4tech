@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👨‍💻 Henrique Almeida Gomes
 
-<!--
-**gomes4tech/gomes4tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> Estudante | Dev Junior | Foco em evolução constante
+```
 
-Here are some ideas to get you started:
+🧠 Atualmente estudando desenvolvimento de sistemas na ETEC de Poá
+⚡ Focado em me tornar um desenvolvedor Fullstack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Sou um desenvolvedor em formação, construindo projetos reais enquanto evoluo minhas habilidades.
+Tenho experiência com lógica de programação e desenvolvimento web, e estou constantemente buscando melhorar na prática.
+
+---
+
+## 🛠️ Stack atual
+
+```txt
+💾 SQL
+🌐 HTML | CSS | JavaScript
+🐍 Python
+⚙️ C#
+📌 Portugol (base lógica)
+```
+
+---
+
+## 📌 Projeto em destaque
+
+### 🧠 NoteFlow
+
+> Um organizador de estudos completo
+
+* Bloco de notas integrado
+* Calendário de estudos personalizável
+* Foco em produtividade e organização
+
+🔗 Em desenvolvimento
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gomes4tech\&show_icons=true\&theme=tokyonight)
+
+---
+
+## ⚡ Mentalidade
+
+```txt
+> Não busco parecer avançado. Busco me tornar.
+> Código todos os dias > teoria sem prática.
+```
