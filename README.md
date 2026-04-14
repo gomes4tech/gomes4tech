@@ -42,9 +42,12 @@ Tenho experiência com lógica de programação e desenvolvimento web, e estou c
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ Atualmente
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gomes4tech\&show_icons=true\&theme=tokyonight)
+```txt
+> Estudando Desenvolvimento de Sistemas
+> Evoluindo na stack fullstack
+> Construindo novos projetos para o GitHub
 
 ---
 
