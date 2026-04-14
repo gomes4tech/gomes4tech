@@ -48,7 +48,7 @@ Tenho experiência com lógica de programação e desenvolvimento web, e estou c
 > Estudando Desenvolvimento de Sistemas
 > Evoluindo na stack fullstack
 > Construindo novos projetos para o GitHub
-
+````
 ---
 
 ## ⚡ Mentalidade
